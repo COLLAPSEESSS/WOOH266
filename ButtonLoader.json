@@ -7,7 +7,7 @@
     },
     {
       "objectName": "TestButton2",
-      "displayName": "Friend add",
+      "displayName": "Friend ADD",
       "command": "fadd %STEAMID%"
     },
     {
