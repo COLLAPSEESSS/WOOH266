@@ -251,6 +251,11 @@
                 "Address": "194.93.2.199",
                 "Port": 28015,
                 "Tags": ""
+            },
+            {
+                "Address": "localhost",
+                "Port": 28015,
+                "Tags": ""
             }
         ],
         "Banned": [
